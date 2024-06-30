@@ -5,7 +5,7 @@ export default function Question1() {
     <div className={styles.playground}>
       <div className={styles.question}>
         <h1>
-          <span>Question 1</span>
+          <small>Question 1</small>
           <span>Find the index</span>
         </h1>
         <p>Can you find the array index of the box in the following picture?</p>
