@@ -1,3 +1,18 @@
 .header {
   font-size: 20px;
 }
+
+.project {
+  position: relative;
+}
+
+.popover {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  padding: 2rem;
+  background-color: white;
+  border-radius: 4px;
+}
